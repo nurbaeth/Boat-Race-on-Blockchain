@@ -11,7 +11,7 @@
 1. Players register for the race.
 2. The race starts when enough participants join.
 3. The contract randomly determines a winner.
-4. The results are stored immutably on-chain.
+4. The results are stored immutably on-chain. 
 
 ## Installation
 1. Clone this repository:
