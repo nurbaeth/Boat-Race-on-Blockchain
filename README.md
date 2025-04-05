@@ -14,7 +14,7 @@
 4. The results are stored immutably on-chain. 
 
 ## Installation
-1. Clone this repository:
+1. Clone this repository: 
    ```sh 
    git clone https://github.com/yourusername/boat-race-blockchain.git
    cd boat-race-blockchain
