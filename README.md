@@ -13,7 +13,7 @@
 3. The contract randomly determines a winner.
 4. The results are stored immutably on-chain.  
 
-## Installation
+## Installation 
 1. Clone this repository: 
    ```sh 
    git clone https://github.com/yourusername/boat-race-blockchain.git
